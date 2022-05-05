@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/bPMNE7F.png" />
-
 ## 🔥benzmeister Stats
 
 <div align="center">
