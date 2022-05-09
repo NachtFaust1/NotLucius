@@ -29,6 +29,9 @@
  
 ![Snake animation](https://github.com/benzmeister/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+ ## [🔥 Discord Server](https://dsc.gg/milanio.dev) | [Website](https://zendevelopments.tk/)
+ <a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/948744977524097116/widget.png?style=banner2"></a>
+ 
 </div>
 
 ## 🤖SUPPORT ME AND ZEN DEVELOPMENTS
