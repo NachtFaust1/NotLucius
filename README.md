@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi there👋, I'm benzmeister,</b><br>
+  <b>👋 Hi there, I'm benzmeister,</b><br>
   <b>a discord bot developer</b><br>
   <a href="https://discord.gg/zendev">Discord</a> |
   <a href="https://www.youtube.com/c/ZenDevelopments1">YouTube</a>
@@ -12,7 +12,7 @@
     <img src="https://lanyard.cnrad.dev/api/928640467619434526"/>
      </a>
      <br><br>
-  <b>My Github Stats</b><br><br>
+  <b>📊 My Github Stats</b><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=benzmeister&theme=dark&hide_border=true">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=benzmeister&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
@@ -24,7 +24,7 @@
   
 <div>
 <p align="center">
-	<b>Languages & Frameworks</b>
+	<b>🖼️ Languages & Frameworks</b>
 	<br><br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
@@ -37,7 +37,7 @@
  
 <div>
 <p align="center">
-<b>LINKS</b><br>
+<b>🔗 LINKS</b><br>
  <a href="https://discord.zen-dev.xyz">Discord Server</a> |
  <a href="https://zen-dev.xyz">Zen Website</a>
 </div>
@@ -48,7 +48,7 @@
 
 <div>
 <p align="center">
-<b>🤖SUPPORT ME AND ZEN DEVELOPMENTS</b><br>
+<b>🤖 SUPPORT ME AND ZEN DEVELOPMENTS</b><br>
 <b>You can always support me by inviting one of my Discord Bots.</b><br><br>
 <a href="https://discord.com/oauth2/authorize?client_id=949301159330455652&permissions=8&scope=bot%20applications.commands"><img src="https://i.imgur.com/qhxJiJe.png" width="60" heigth="60"></img></a>
 <a href="https://discord.com/api/oauth2/authorize?client_id=959251789394354206&permissions=8&scope=bot%20applications.commands"><img src="https://i.imgur.com/YjUUk1u.png" width="60" heigth="60"></img></a>
@@ -59,7 +59,7 @@
 
 <div>
 <p align="center">
-<b> Views and Followers</b><br><br>
+<b>💖 Views and Followers</b><br><br>
 <a href="https://github.com/benzmeister/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=benzmeister"></a>
 <a href="https://github.com/benzmeister?tab=followers"><img src="https://img.shields.io/github/followers/benzmeister?label=Followers&style=social" alt="GitHub Badge">
 </div>
