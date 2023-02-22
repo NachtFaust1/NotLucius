@@ -3,7 +3,7 @@ Hey there <img src="https://user-images.githubusercontent.com/5679180/79618120-0
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@devbenz.me)](mailto:contact@devbenz.me)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lucius.visitor-badge)
 
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NotLucius&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
 <div align="left" width="100%">
 
