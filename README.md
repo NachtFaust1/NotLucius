@@ -18,11 +18,11 @@ Hey there <img src="https://user-images.githubusercontent.com/5679180/79618120-0
    
 ## ⚙️ Technologies I use
 ### Development
-<img src="https://skillicons.dev/icons?i=js,html,css,jquery,nodejs,nestjswebpack&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs&theme=dark" />
 </div>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </div>
 
 ### Services
